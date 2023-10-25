@@ -24,5 +24,5 @@
 <h4>Se vitórias for maior ou igual a 101 = Imortal</h4> 
 
 <h2>Saída</h2>
-<H3>MENSAGEM :</H3> <H4>Ao final deve se exibir uma mensagem: "O Herói tem de saldo de {saldoVitorias} está no nível de {nivel}"
+<H3>Ao final deve se exibir uma mensagem:</H3> <H4> "O Herói tem de saldo de {saldoVitorias} está no nível de {nivel}"
 </H4>
